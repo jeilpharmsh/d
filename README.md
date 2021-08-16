@@ -1,15 +1,5 @@
 
 <html>
-<head>
-<style>
-body {
-    background-color: #BFF1FA;
-}
-</style>
-</head>
-<body>
-</body>
-
 
 <head>
   <title>HTML - HiSohi</title>
