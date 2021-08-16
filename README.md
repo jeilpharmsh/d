@@ -19,13 +19,13 @@ body {
 <body>
 <h1><a href="index.html">Hi_sohi</a></h1>
 <ol>
-  <h2>제일약품 담당자 임소희</a></h2>
-  <h2>스도쿠 답<a/></h2>
-  <h2>이 달의 제일 - 슈프레인(1)</a></h2>
-  <h2><증시일정 </a></h2>
+  제일약품 담당자 임소희<BR>
+  스도쿠 답<BR>
+  이 달의 제일 - 슈프레인(1)<BR>
+  증시일정 <BR>
 
 
-<h2>제일약품 담당자 임소희</h2>
+<h3>제일약품 담당자 임소희</h3>
 제일약품 담당자 임소희 <BR>
 e-mail : hi_sohi@jeilpharm.co.kr <BR>
 phone : 010-4108-3514
@@ -39,14 +39,14 @@ phone : 010-4108-3514
 </body>
 </html>
 
-<h4>이달의 제일 - 슈프레인 (1)</h4>
+<h3>이달의 제일 - 슈프레인 (1)</h3>
 <html>
 <<body>
   <img src="그림1.jpg" height="500" alt="슈프레인" title="슈프레인">
 </body>
 </html>
 
-<h5>증시일정</h5>
+<h3>증시일정</h3>
 <html>
 <<body>
   <img src="그림1.jpg" height="500" alt="슈프레인" title="슈프레인">
