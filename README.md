@@ -39,6 +39,6 @@ phone : 010-4108-3514
 <h3>증시일정</h3>
 <html>
 <<body>
-  <img src="그림1.jpg" height="500" alt="슈프레인" title="슈프레인">
+  <img src="증시일정.jpg" height="500" alt="증시일정" title="증시일정">
 </body>
 </html>
