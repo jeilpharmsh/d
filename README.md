@@ -1,5 +1,15 @@
 
 <html>
+<head>
+<style>
+body {
+    background-color: #BFF1FA;
+}
+</style>
+</head>
+<body>
+</body>
+
 
 <head>
   <title>HTML - HiSohi</title>
@@ -9,10 +19,10 @@
 <body>
 <h1><a href="index.html">Hi_sohi</a></h1>
 <ol>
-  <li><a href="1.html">제일약품 담당자 임소희</a></li>
-  <li><a href="2.html">스도쿠 답<a/>
-  <li><a href="3.html">이 달의 제일 - 슈프레인(1)</a></li>
-  <li><a href="4.html">증시일정 </a></li>
+  <h2>제일약품 담당자 임소희</a></h2>
+  <h2>스도쿠 답<a/></h2>
+  <h2>이 달의 제일 - 슈프레인(1)</a></h2>
+  <h2><증시일정 </a></h2>
 
 
 <h2>제일약품 담당자 임소희</h2>
