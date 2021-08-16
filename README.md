@@ -43,8 +43,7 @@ phone : 010-4108-3514
 </body>
 </html>
   
-  
-  <?xml version="1.0" encoding="utf-8"?>
+ 
 <skin>
 	<information>
 		<name>Simple_line</name>
