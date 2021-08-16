@@ -1,17 +1,3 @@
-
-<html>
-<head>
-<style>
-body {
-    background-color: #BFF1FA;
-}
-</style>
-</head>
-<body>
-</body>
-</html>
-
-
 <html>
 <head>
   <title>HTML - HiSohi</title>
@@ -25,7 +11,7 @@ body {
   <li><a href="2.html">스도쿠 답<a/>
   <li><a href="3.html">이 달의 제일 - 슈프레인(1)</a></li>
   <li><a href="4.html">증시일정 </a></li>
-
+      </ol>
 
 <h2>제일약품 담당자 임소희</h2>
 제일약품 담당자 임소희 <BR>
