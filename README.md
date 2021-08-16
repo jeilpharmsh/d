@@ -6,6 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
+  </html>
 <body>
 <h1><a href="index.html">Hi_sohi</a></h1>
 <ol>
