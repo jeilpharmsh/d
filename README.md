@@ -24,21 +24,21 @@ phone : 010-4108-3514
 
 <h3>스도쿠 답</h3>
 <html>
-<<body>
+<body>
   <img src="다운로드.png" height="300" alt="스도쿠 답" title="스도쿠 답">
 </body>
 </html>
 
 <h3>이달의 제일 - 슈프레인 (1)</h3>
 <html>
-<<body>
+<body>
   <img src="그림1.jpg" height="500" alt="슈프레인" title="슈프레인">
 </body>
 </html>
 
 <h3>증시일정</h3>
 <html>
-<<body>
+<body>
   <img src="증시일정.jpg" height="500" alt="증시일정" title="증시일정">
 </body>
 </html>
