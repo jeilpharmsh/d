@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -11,7 +10,7 @@ body {
 </body>
 </html>
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>HTML - HiSohi</title>
