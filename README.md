@@ -82,7 +82,7 @@
  
     <!-- header 영역 -->
     <header>
-        <h1>My Website</h1>
+        <h1>HI_SOHI</h1>
         <p>With a <strong>flexible</strong> layout.</p>
     </header>
  
